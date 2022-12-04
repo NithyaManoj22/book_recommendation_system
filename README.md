@@ -1,5 +1,5 @@
 # Recommendation-System using the book crossing dataset
-Building Recommendation System built using supervised and unsupervised Machine learning techniques. 
+Building a Book Recommendation System built using supervised and unsupervised Machine learning techniques. 
 
 ## Book-Crossing
 The Book-Crossing dataset is a collection of user ratings of books. It comes with both explicit ratings (1-10 stars) and implicit ratings (user interacted with the book).
